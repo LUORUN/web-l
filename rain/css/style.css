@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  border: none;
+  vertical-align: top;
+}
+input {
+  border: none;
+  outline: none;
+}
+textarea {
+  resize: none;
+}
+li {
+  list-style: none;
+}
+.clearfix:after {
+  content: '';
+  display: block;
+  clear: both;
+  *zoom: 1;
+}
+i,
+em {
+  font-style: normal;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+.hide {
+  display: none;
+}
+.page {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+}
+.page img {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.page-1-1 {
+  background: url(../images/rain-1_bj.png) no-repeat;
+  background-size: cover;
+}
+.page-1-1 .img1 {
+  width: 31.33333333%;
+  top: 69.88764045%;
+  left: 33.86666667%;
+}
+.page-1-1 .img2 {
+  width: 24.13333333%;
+  top: 73.1835206%;
+  left: 36.66666667%;
+}
+.page-1-1 .img3 {
+  width: 100%;
+  top: 13.03370787%;
+}
+.page-1-1 .img4 {
+  width: 50.26666667%;
+  top: 73.93258427%;
+  left: 25.33333333%;
+}
+.page-1-1 .img5 {
+  width: 93.33333333%;
+  left: 6.66666667%;
+}
+.page-2-1 .img1 {
+  width: 100%;
+  top: 4.64419476%;
+}
+.page-2-1 .img2 {
+  width: 164.53333333%;
+  left: -110px;
+}
+.page-2-1 {
+  background: url(../images/rain-2_bj_02.png) no-repeat;
+  background-size: cover;
+  zoom: 1;
+}
+.page-3-1 {
+  background: url(../images/rain-2_bj_02.png) no-repeat;
+  background-size: cover;
+  zoom: 1;
+}
+.page-3-1 .img0 {
+  width: 23.33333333%;
+  height: 42.69662921%;
+  top: 11.23595506%;
+  left: 13.06666667%;
+}
+.page-3-1 .img1 {
+  width: 23.2%;
+  height: 42.69662921%;
+  top: 10.48689139%;
+  left: 14.13333333%;
+}
+.page-3-1 .img2 {
+  width: 23.6%;
+  height: 42.69662921%;
+  top: 14.082397%;
+  left: 38.4%;
+}
+.page-3-1 .img3 {
+  width: 23.46666667%;
+  height: 42.69662921%;
+  top: 6.89138577%;
+  left: 63.06666667%;
+}
+.page-3-1 .img4 {
+  width: 19.2%;
+  height: 4.34456929%;
+  top: 48.38951311%;
+  left: 58.53333333%;
+}
+.page-3-1 .img5 {
+  width: 112.13333333%;
+  height: 80.07490637%;
+  top: 21.34831461%;
+  left: 0.13333333%;
+}
+.page-4-1 {
+  background: url(../images/rain-2_bj_02.png) no-repeat;
+  background-size: cover;
+  zoom: 1;
+}
+.page-4-1 .img1 {
+  width: 72.4%;
+  height: 14.45692884%;
+  top: 8.98876404%;
+  left: 9.73333333%;
+}
+.page-4-1 .img2 {
+  width: 30%;
+  height: 24.71910112%;
+  top: 62.54681648%;
+  left: 13.33333333%;
+}
+.page-4-1 .img3 {
+  width: 30%;
+  height: 24.71910112%;
+  top: 62.54681648%;
+  left: 56.53333333%;
+}
+.page-4-1 .img4 {
+  width: 30%;
+  height: 24.71910112%;
+  top: 30.63670412%;
+  left: 56.53333333%;
+}
+.page-4-1 .img5 {
+  width: 30%;
+  height: 24.71910112%;
+  top: 30.63670412%;
+  left: 13.33333333%;
+}
